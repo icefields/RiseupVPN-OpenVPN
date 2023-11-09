@@ -1,0 +1,19 @@
+Montreal                199.58.83.11
+Montreal                199.58.83.9
+Seattle                 204.13.164.252
+Seattle                 199.254.238.55
+Seattle                 198.252.153.109
+Paris                   195.154.106.118
+Paris                   51.159.196.108
+Paris                   51.159.197.108
+Paris                   51.15.187.53
+Paris                   51.159.55.86
+Paris                   163.172.83.106
+Paris                   163.172.58.132
+Amsterdam, Ohio         37.218.244.250
+Amsterdam, Ohio         37.218.244.248
+Amsterdam, Netherlands  185.220.103.11
+Amsterdam, Netherlands  51.158.144.31
+Amsterdam, Netherlands  51.158.144.32
+Amsterdam, Netherlands  163.172.211.109
+Haarlem, Netherlands    51.15.9.205
